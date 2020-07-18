@@ -17,7 +17,7 @@
 </h5>
 
 
- <img src="https://raw.githubusercontent.com/sahukanishka/Co2-emission-LR/master/Screenshot_2020-07-18%20co2emissonLR%20-%20Jupyter%20Notebook(2).png?token=AIJYFD7DB5F6466PNRJPM2S7CL3KO" > 
+ <img src="https://github.com/sahukanishka/Co2-emission-LR/blob/master/Screenshot_2020-07-18%20co2emissonLR%20-%20Jupyter%20Notebook(1).png" > 
  
 
  <img src="https://raw.githubusercontent.com/sahukanishka/Co2-emission-LR/master/Screenshot_2020-07-18%20co2emissonLR%20-%20Jupyter%20Notebook(3).png?token=AIJYFD5R2DJ3I5SP2KQSBTC7CL3LU" > 
